@@ -8,4 +8,4 @@ The project uses Langchain to make an API calls to OPENAI. Some features are des
 *Uses sequencing to generate a possible menu for the name of the restaurant 
 *Uses streamlit to generate a page to allow the user select the cusine for which a name and menu should be generated.
 
-Generate an OPENAI API and place it in the secrets file and run the code.
+Generate an OPENAI API and place it in the secret_key file and run the code.
